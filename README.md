@@ -18,7 +18,7 @@ This project is a **Student Dashboard Application** designed to help students ma
 - **Backend**: Node.js with Express
 - **Database**: MongoDB
 - **Charting Library**: Chart.js for visualizing academic performance
-- **CSS Framework**: [Your choice of CSS framework, if any, e.g., Tailwind CSS, Bootstrap, etc.]
+- **CSS Framework**: [Your choice of CSS framework, if any, e.g., CSS, Bootstrap, etc.]
 
 ## Installation
 
