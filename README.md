@@ -38,7 +38,7 @@ cd your-repo-name
 ### Backend Setup
 Navigate to the Backend Directory
 ```bash
-cd backend
+cd server
 ```
 Install the Required Dependencies
 ```bash
@@ -58,10 +58,7 @@ Start the Server
 npm start
 ```
 ### Frontend Setup
-Navigate to the Frontend Directory
-```bash
-cd ../frontend
-```
+
 Install the Required Dependencies
 ```bash
 npm install
